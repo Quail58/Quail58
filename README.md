@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quail58
+- 👋 Hi, I’m John Gibson
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning web development using The Odin Project.
 - 💞️ I’m looking to collaborate on anything!
